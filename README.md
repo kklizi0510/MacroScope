@@ -1,4 +1,4 @@
-# vibecoding
+# MacroScope
 
 ## 中文
 
